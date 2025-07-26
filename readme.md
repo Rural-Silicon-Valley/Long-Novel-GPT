@@ -1,3 +1,5 @@
+# 用GPT写长篇小说的prompt
+
 <h1 align="center">Long-Novel-GPT</h1>
 
 <p align="center">
